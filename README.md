@@ -10,8 +10,6 @@ Discord Webhook
 
 Xbox api token free tier works but caps at 150req an hour (works for most cases)- created here https://xbl.io/
 
-More than 13 IQ
-
 Nitrado Dayz server (suppose it would work for other games but havent tested filesystems might log different)
 
 **Running**
