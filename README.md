@@ -12,7 +12,7 @@ Xbox api token free tier works but caps at 150req an hour (works for most cases)
 
 Nitrado Dayz server (suppose it would work for other games but havent tested filesystems might log different)
 
-**Running**
+<h1>**Running**</h1>
 
 **For Linux**
 
