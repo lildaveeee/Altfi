@@ -12,18 +12,18 @@ Xbox api token free tier works but caps at 150req an hour (works for most cases)
 
 Nitrado Dayz server (suppose it would work for other games but havent tested filesystems might log different)
 
-<h1>**Running**</h1>
+<h2>Running</h2>
 
-**For Linux**
+<h3>For Linux</h3>
 
 _chmod +x run.sh_
 
 _./run.sh_
 
-**For Windows**
+<h3>For Windows</h3>
 
 run **run.bat** if it fails may need administrator
 
-**For Mac**
+<h3>For Mac</h3>
 
 you dont
